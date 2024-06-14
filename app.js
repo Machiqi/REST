@@ -1,6 +1,6 @@
 function uploadCloud(){
     
-    
+//    
     const vegname=veg.value;
     const cost=price.value;
     const quantity=kg.value;
